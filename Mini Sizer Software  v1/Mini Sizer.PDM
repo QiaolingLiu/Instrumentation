@@ -1,0 +1,127 @@
+[Root]
+Most Recent Package=setup 1
+
+
+[Package|setup 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Users\Linda\0 Qiaoling At US\3 Phd Researches\0 Phd Thesis\2. My Work\4 SOFTWARE\Mini Sizer Software  v1\SETUP
+
+[Package|setup 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|setup 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|setup 1|Files Found]
+
+[Package|setup 1|Files Released]
+EXCEL.EXE=
+
+[Package|setup 1|Missing Dependency Information]
+C:\Program Files\MATLAB\R2011b\toolbox\rtw\targets\xpc\xpc\xpcmngr\ocx\TABCTL32.ocx=
+C:\Windows\SysWOW64\BDaqOcx.dll=
+
+[Package|setup 1|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\mscomctl.ocx=
+C:\Windows\SysWOW64\msflxgrd.ocx=
+C:\Windows\SysWOW64\comdlg32.ocx=
+C:\Windows\SysWOW64\scrrun.dll=
+
+[Package|setup 1|Files Added]
+
+[Package|setup 1|Files Removed]
+
+[Package|setup 1|Files In Project]
+C:\Users\Linda\0 Qiaoling At US\3 Phd Researches\0 Phd Thesis\2. My Work\4 SOFTWARE\Mini Sizer Software  v1\e-UPS.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\vb6chs.dll=Yes
+C:\Windows\SysWOW64\scrrun.dll=Yes
+C:\Windows\SysWOW64\msvcrt.dll=Yes
+C:\Windows\SysWOW64\SCRRNCHS.DLL=Yes
+C:\Windows\SysWOW64\BDaqOcx.dll=Yes
+C:\Windows\SysWOW64\MSCOMM32.OCX=Yes
+C:\Windows\SysWOW64\MSCOMCHS.DLL=Yes
+C:\Windows\SysWOW64\comdlg32.ocx=Yes
+C:\Windows\SysWOW64\CMDLGCHS.DLL=Yes
+C:\Windows\SysWOW64\msflxgrd.ocx=Yes
+C:\Windows\SysWOW64\FLXGDCHS.DLL=Yes
+C:\Program Files\MATLAB\R2011b\toolbox\rtw\targets\xpc\xpc\xpcmngr\ocx\TABCTL32.ocx=Yes
+C:\Windows\SysWOW64\MSDATLST.OCX=Yes
+C:\Windows\SysWOW64\DATLSCHS.DLL=Yes
+C:\Windows\SysWOW64\mscomctl.ocx=Yes
+C:\Windows\SysWOW64\MSCMCCHS.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|setup 1|Configure Registry Files]
+Applicable=No
+
+[Package|setup 1|Configure Remote Servers]
+Applicable=No
+
+[Package|setup 1|Install Locations]
+C:\Users\Linda\0 Qiaoling At US\3 Phd Researches\0 Phd Thesis\2. My Work\4 SOFTWARE\Mini Sizer Software  v1\e-UPS.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\vb6chs.dll=$(WinSysPath)
+C:\Windows\SysWOW64\scrrun.dll=$(WinSysPath)
+C:\Windows\SysWOW64\msvcrt.dll=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\SCRRNCHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\BDaqOcx.dll=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMM32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\comdlg32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\CMDLGCHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\msflxgrd.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\FLXGDCHS.DLL=$(WinSysPath)
+C:\Program Files\MATLAB\R2011b\toolbox\rtw\targets\xpc\xpc\xpcmngr\ocx\TABCTL32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSDATLST.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\DATLSCHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\mscomctl.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSCMCCHS.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|setup 1|Configure Shared Files]
+Applicable=Yes
+C:\Users\Linda\0 Qiaoling At US\3 Phd Researches\0 Phd Thesis\2. My Work\4 SOFTWARE\Mini Sizer Software  v1\e-UPS.exe=No
+
+[Package|setup 1|Distribution]
+Type=single
+Size=
+Title=Mini_Sizer_Software
+
+[Package|setup 1|IconGroups]
+Group0=Mini_Sizer_Software
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|setup 1|Mini_Sizer_Software]
+Icon1=e-UPS.exe
+Title1=Mini_Sizer_Software
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|setup 1|Package]
+PackageFolder=C:\Users\Linda\0 Qiaoling At US\3 Phd Researches\0 Phd Thesis\2. My Work\4 SOFTWARE\Mini Sizer Software  v1\SETUP
+ProjectFolder=C:\Users\Linda\0 Qiaoling At US\3 Phd Researches\0 Phd Thesis\2. My Work\4 SOFTWARE\Mini Sizer Software  v1
+ServerSideCab=
+File1=C:\Users\Linda\0 Qiaoling At US\3 Phd Researches\0 Phd Thesis\2. My Work\4 SOFTWARE\Mini Sizer Software  v1\SETUP\setup.exe
+File2=C:\Users\Linda\0 Qiaoling At US\3 Phd Researches\0 Phd Thesis\2. My Work\4 SOFTWARE\Mini Sizer Software  v1\SETUP\Setup.Lst
+File3=C:\Users\Linda\0 Qiaoling At US\3 Phd Researches\0 Phd Thesis\2. My Work\4 SOFTWARE\Mini Sizer Software  v1\SETUP\e-UPS.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
